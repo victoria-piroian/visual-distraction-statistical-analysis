@@ -87,7 +87,9 @@ source("code/probability_models.R")
 source("code/visualization.R")
 ```
 
-### Author
+---
+
+## Author
 Victoria Piroian
 
 University of Toronto
