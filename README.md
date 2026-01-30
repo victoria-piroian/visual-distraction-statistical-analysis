@@ -1,6 +1,6 @@
-# Visual Distraction Statistical Analysis - Spot It Game
+# Visual Distraction Statistical Analysis - Spot the Different Flowers 🌸
+---
 
-# Spot the Different Flowers 🌸
 **Statistical Analysis of Visual Distraction on Accuracy and Response Time**
 
 ## Overview
