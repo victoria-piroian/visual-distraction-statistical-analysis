@@ -72,9 +72,6 @@ The results align with prior research indicating that increased visual complexit
 
 ---
 
-
----
-
 ## How to Run
 
 ### Requirements
@@ -88,6 +85,7 @@ setwd("path/to/project")
 source("code/analysis_main.R")
 source("code/probability_models.R")
 source("code/visualization.R")
+```
 
 ### Author
 Victoria Piroian
