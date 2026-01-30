@@ -1,7 +1,7 @@
 # Visual Distraction Statistical Analysis - Spot the Different Flowers 🌸
 
-**Statistical Analysis of Visual Distraction on Accuracy and Response Time**
-
+## Statistical Analysis of Visual Distraction on Accuracy and Response Time**
+---
 ## Overview
 This project examines how increasing levels of visual distraction affect human accuracy and response time during a visual comparison task. A custom “spot the difference” experiment was designed in which participants identified missing images between two flower cards under varying distraction conditions.
 
