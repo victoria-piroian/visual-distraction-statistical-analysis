@@ -89,5 +89,7 @@ source("code/visualization.R")
 
 ### Author
 Victoria Piroian
+
 University of Toronto
+
 Faculty of Applied Science & Engineering, 2022
