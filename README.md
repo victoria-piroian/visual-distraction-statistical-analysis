@@ -1,4 +1,4 @@
-# Visual Distraction Statistical Analysis - Spot the Different Flowers 🌸
+# Visual Distraction Statistical Analysis - Spot the Different Flowers
 
 ## Statistical Analysis of Visual Distraction on Accuracy and Response Time
 
